@@ -72,8 +72,8 @@
       <pattern index="1" />
     </filter>
     <filter name="DEPLOY">
-      <pattern index="5" />
       <pattern index="6" />
+      <pattern index="5" />
     </filter>
     <filter name="FUTURE">
       <pattern index="3" />
@@ -87,12 +87,8 @@
     <filter name="REFACTOR">
       <pattern index="10" />
       <pattern index="9" />
-      <pattern index="8" />
       <pattern index="11" />
+      <pattern index="8" />
     </filter>
-  </component>
-  <component name="XmlEditorOptions">
-    <option name="breadcrumbsEnabledInXml" value="true" />
-    <option name="insertQuotesForAttributeValue" value="false" />
   </component>
 </application>
