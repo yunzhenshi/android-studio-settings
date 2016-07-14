@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'shark'" />
-    <option name="defaultScopeName" value="Project 'shark'" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'shark'" />
+    <option name="customScope" value="Directory '/Users/April/Developer/Projects/Vispera/VisperaShark/Shark v2.0/app/src/main/res'" />
+    <option name="defaultScopeName" value="Directory '/Users/April/Developer/Projects/Vispera/VisperaShark/Shark v2.0/app/src/main/res'" />
+    <option name="SEARCH_SCOPE" value="Directory '/Users/April/Developer/Projects/Vispera/VisperaShark/Shark v2.0/app/src/main/res'" />
   </component>
 </application>

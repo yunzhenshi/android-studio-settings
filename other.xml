@@ -9,70 +9,221 @@
         </expanded-state>
         <selected-state>
           <State>
+            <id>Abstraction issues</id>
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>Assignment issues</id>
+          </State>
+          <State>
+            <id>Bitwise operation issues</id>
+          </State>
+          <State>
+            <id>Class metrics</id>
+          </State>
+          <State>
+            <id>Class structure</id>
+          </State>
+          <State>
+            <id>Cloning issues</id>
+          </State>
+          <State>
+            <id>Code maturity issues</id>
+          </State>
+          <State>
+            <id>Code style issues</id>
+          </State>
+          <State>
+            <id>Compiler issues</id>
+          </State>
+          <State>
+            <id>Concurrency annotation issues</id>
+          </State>
+          <State>
+            <id>Control flow issues</id>
+          </State>
+          <State>
+            <id>Data flow issues</id>
+          </State>
+          <State>
+            <id>Declaration redundancy</id>
+          </State>
+          <State>
+            <id>Dependency issues</id>
+          </State>
+          <State>
+            <id>Encapsulation issues</id>
+          </State>
+          <State>
+            <id>Error handling</id>
+          </State>
+          <State>
+            <id>Finalization issues</id>
+          </State>
+          <State>
+            <id>FindBugs IDEA</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Google Cloud Endpoints</id>
+          </State>
+          <State>
+            <id>Gradle</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Ignore</id>
+          </State>
+          <State>
+            <id>Imports</id>
+          </State>
+          <State>
+            <id>Inheritance issues</id>
+          </State>
+          <State>
+            <id>Initialization issues</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>J2ME issues</id>
+          </State>
+          <State>
+            <id>JUnit issues</id>
+          </State>
+          <State>
+            <id>Java language level issues</id>
+          </State>
+          <State>
+            <id>Java language level migration aids</id>
+          </State>
+          <State>
+            <id>JavaBeans issues</id>
+          </State>
+          <State>
+            <id>Javadoc issues</id>
+          </State>
+          <State>
+            <id>Language Injection</id>
+          </State>
+          <State>
+            <id>Logging issues</id>
+          </State>
+          <State>
+            <id>Manifest</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>Memory issues</id>
+          </State>
+          <State>
+            <id>Method metrics</id>
+          </State>
+          <State>
+            <id>Modularization issues</id>
+          </State>
+          <State>
+            <id>Naming conventions</id>
+          </State>
+          <State>
+            <id>Numeric issues</id>
+          </State>
+          <State>
+            <id>Packaging issues</id>
+          </State>
+          <State>
+            <id>Pattern Validation</id>
+          </State>
+          <State>
+            <id>Performance issues</id>
+          </State>
+          <State>
+            <id>Portability issues</id>
+          </State>
+          <State>
+            <id>Probable bugs</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>Resource management issues</id>
+          </State>
+          <State>
+            <id>Security issues</id>
+          </State>
+          <State>
+            <id>Serialization issues</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+          <State>
+            <id>TestNG</id>
+          </State>
+          <State>
+            <id>Threading issues</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructs</id>
+          </State>
+          <State>
+            <id>Visibility issues</id>
+          </State>
+          <State>
             <id>XML</id>
+          </State>
+          <State>
+            <id>toString() issues</id>
           </State>
         </selected-state>
       </profile-state>
     </entry>
   </component>
+  <component name="BaseRefactoringSettings">
+    <option name="SAFE_DELETE_SEARCH_IN_COMMENTS" value="false" />
+  </component>
   <component name="CodeStyleSchemes">
     <option name="CURRENT_SCHEME_NAME" value="Default" />
   </component>
-  <component name="CvsApplicationLevelConfiguration">
-    <option name="EXT_CONFIGURATION">
-      <value>
-        <option name="CVS_RSH" value="ssh" />
-        <option name="PRIVATE_KEY_FILE" value="" />
-        <option name="ADDITIONAL_PARAMETERS" value="" />
-        <option name="USE_INTERNAL_SSH_IMPLEMENTATION" value="false" />
-      </value>
-    </option>
-    <option name="SSH_CONFIGURATION">
-      <value SSH_TYPE="SSH1, SSH2">
-        <option name="USE_PPK" value="false" />
-        <option name="PATH_TO_PPK" value="" />
-      </value>
-    </option>
-    <option name="LOCAL_CONFIGURATION">
-      <value>
-        <option name="PATH_TO_CVS_CLIENT" value="cvs" />
-      </value>
-    </option>
-    <option name="PROXY_SETTINGS">
-      <value>
-        <option name="USE_PROXY" value="false" />
-        <option name="PROXY_HOST" value="" />
-        <option name="PROXY_PORT" value="8080" />
-        <option name="TYPE" value="0" />
-        <option name="LOGIN" value="" />
-        <option name="PASSWORD" value="" />
-      </value>
-    </option>
-    <option name="SSH_FOR_EXT_CONFIGURATION">
-      <value SSH_TYPE="SSH1, SSH2">
-        <option name="USE_PPK" value="false" />
-        <option name="PATH_TO_PPK" value="" />
-      </value>
-    </option>
-    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
-    <option name="TIMEOUT" value="10" />
-    <option name="MAKE_CHECKED_OUT_FILES_READONLY" value="false" />
-    <option name="CHECKOUT_PRUNE_EMPTY_DIRECTORIES" value="true" />
-    <option name="CHECKOUT_KEYWORD_SUBSTITUTION" />
-    <option name="SHOW_RESTORE_DIRECTORIES_CONFIRMATION" value="true" />
-    <option name="ENCODING" value="Default" />
-    <option name="USE_GZIP" value="false" />
-    <option name="DO_OUTPUT" value="false" />
-    <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
-    <option name="SHOW_PATH" value="true" />
-  </component>
   <component name="DebuggerSettings">
     <option name="TRACING_FILTERS_ENABLED" value="true" />
+    <option name="VALUE_LOOKUP_DELAY" value="700" />
+    <option name="DEBUGGER_TRANSPORT" value="0" />
     <option name="FORCE_CLASSIC_VM" value="true" />
+    <option name="DISABLE_JIT" value="false" />
+    <option name="HIDE_DEBUGGER_ON_PROCESS_TERMINATION" value="false" />
+    <option name="HOTSWAP_IN_BACKGROUND" value="true" />
     <option name="SKIP_SYNTHETIC_METHODS" value="true" />
+    <option name="SKIP_CONSTRUCTORS" value="false" />
+    <option name="SKIP_GETTERS" value="false" />
     <option name="SKIP_CLASSLOADERS" value="true" />
+    <option name="EVALUATION_DIALOG_TYPE" />
     <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAsk" />
     <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
+    <option name="HOTSWAP_HANG_WARNING_ENABLED" value="false" />
+    <option name="WATCH_RETURN_VALUES" value="false" />
+    <option name="AUTO_VARIABLES_MODE" value="false" />
+    <option name="SHOW_LIBRARY_STACKFRAMES" value="true" />
+    <option name="UNMUTE_ON_STOP" value="false" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
       <option name="ENABLED" value="true" />
@@ -113,9 +264,6 @@
       <option name="PATTERN" value="org.springsource.loaded.*" />
       <option name="ENABLED" value="true" />
     </filter>
-  </component>
-  <component name="ImportFilteringUsageViewSetting">
-    <option name="SHOW_IMPORTS" value="false" />
   </component>
   <component name="RefactoringSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
