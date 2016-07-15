@@ -66,6 +66,11 @@
       <option name="FONT_TYPE" value="2" />
       <option name="ERROR_STRIPE_COLOR" value="a74c0" />
     </pattern>
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bnotice\b.*">
+      <option name="FOREGROUND" value="a8c023" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+    </pattern>
     <filter name="TODO">
       <pattern index="0" />
       <pattern index="2" />
