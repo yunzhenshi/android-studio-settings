@@ -1579,6 +1579,14 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.DEFINITION_TERM_STRIKETHROUGH_ABBREVIATED_TEXT_ABBREVIATED_TEXT">
+      <value>
+        <option name="BACKGROUND" value="eee6ff" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="426276" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.DEFINITION_TERM_STRIKETHROUGH_BOLD">
       <value>
         <option name="BACKGROUND" value="eee6ff" />
@@ -4828,6 +4836,14 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_ITALIC_QUOTED_TEXT_ABBREVIATED_TEXT_ABBREVIATED_TEXT">
+      <value>
+        <option name="BACKGROUND" value="b8ffc0" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="27da1" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_ITALIC_QUOTED_TEXT_HTML_ENTITY">
       <value>
         <option name="FOREGROUND" value="ff" />
@@ -5200,6 +5216,14 @@
         <option name="BACKGROUND" value="b8ffc0" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="76418f" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_STRIKETHROUGH_BOLD_ITALIC_QUOTED_TEXT_ABBREVIATED_TEXT_ABBREVIATED_TEXT">
+      <value>
+        <option name="BACKGROUND" value="b8ffc0" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="426276" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -9888,6 +9912,14 @@
         <option name="BACKGROUND" value="b1f1b7" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="76418f" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_STRIKETHROUGH_BOLD_ITALIC_QUOTED_TEXT_ABBREVIATED_TEXT_ABBREVIATED_TEXT">
+      <value>
+        <option name="BACKGROUND" value="b1f1b7" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="426276" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
