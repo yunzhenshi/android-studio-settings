@@ -1,0 +1,19 @@
+<application>
+  <component name="RefactoringSettings">
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://192.168.15.201/svn/source-as" />
+        <option value="https://192.168.15.201/svn/source" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://192.168.15.201/svn/source-as" />
+        <option value="https://192.168.15.201/svn/source" />
+      </list>
+    </option>
+  </component>
+</application>
