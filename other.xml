@@ -47,6 +47,11 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
+  <component name="DBNavigator.Application.Settings">
+    <enable-debug-mode value="false" />
+    <enable-developer-mode value="false" />
+    <show-plugin-conflict-dialog value="false" />
+  </component>
   <component name="RefactoringSettings">
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
   </component>
