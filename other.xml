@@ -58,10 +58,15 @@
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
   </component>
   <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://192.168.15.204/svn/Source/Android/hospital/trunk" />
+      </list>
+    </option>
     <option name="myTypedURLs">
       <list>
-        <option value="https://192.168.15.204/svn/Source/Android/hospital/tags" />
         <option value="https://192.168.15.204/svn/Source/Android/hospital/trunk" />
+        <option value="https://192.168.15.204/svn/Source/Android/hospital/tags" />
         <option value="svn://192.168.15.203/Source/Android/hospital/trunk" />
         <option value="https://192.168.15.201/svn/source-as" />
         <option value="https://192.168.15.201/svn/source" />
