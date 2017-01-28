@@ -92,6 +92,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="J:\github" />
+    <option name="cloneParentDir" value="$USER_HOME$/workspace" />
   </component>
 </application>
