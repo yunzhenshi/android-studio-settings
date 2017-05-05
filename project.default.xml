@@ -23,6 +23,19 @@
       <component name="Encoding">
         <file url="PROJECT" charset="UTF-8" />
       </component>
+      <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="J:/as/github/tinker" value="16354630852965" />
+            <entry key="J:/github/Android-CleanArchitecture" value="7459011532171" />
+            <entry key="J:/github/cornerlabelview" value="5962837408761" />
+            <entry key="J:/github/tinker" value="16394814158413" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
         <OptionsSetting value="true" id="Remove" />
@@ -35,10 +48,10 @@
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
       <component name="PropertiesComponent">
-        <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-        <property name="last_opened_file_path" value="$USER_HOME$/workspace" />
-        <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gant" />
+        <property name="android.sdk.path" value="I:/androidstudioSDK" />
+        <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
+        <property name="last_opened_file_path" value="J:/as/trunk" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="Application" factoryName="Application">
@@ -125,6 +138,9 @@
         <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
           <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
         </configuration>
+      </component>
+      <component name="SvnConfiguration" myUseAcceleration="nothing">
+        <configuration useDefault="false">C:\Users\android\AppData\Roaming\Subversion</configuration>
       </component>
       <component name="VcsContentAnnotationSettings">
         <option name="myLimit" value="2678400000" />

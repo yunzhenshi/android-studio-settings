@@ -1,5 +1,4 @@
 <application>
-  <component name="DiffManager" COMPARISON_POLICY="Ignore spaces" />
   <component name="DiffSettings">
     <option name="PLACES_MAP">
       <entry key="ChangesView">
@@ -16,9 +15,7 @@
   <component name="SvnDiffSettings">
     <option name="PLACES_MAP">
       <entry key="Default">
-        <PlaceSettings>
-          <option name="SPLITTER_PROPORTION" value="0.8172839" />
-        </PlaceSettings>
+        <PlaceSettings />
       </entry>
     </option>
   </component>
