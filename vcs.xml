@@ -82,6 +82,10 @@
           <option name="url" value="https://github.com/saki4510t/UVCCamera.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/itMicmouse/OverTime.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="J:\preview" />
